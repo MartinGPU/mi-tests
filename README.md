@@ -1,1 +1,1 @@
-Уведомления в телеграм (jenkins)
+Уведомления/Allure testOps/Jira
